@@ -1,4 +1,14 @@
-## Hi there 👋
+## Bem vindo ao meu perfil
+
+### Me chamo Renato e sou professor de:
+- Tecnologia e Robótica;
+- Matemática;
+- Educação Financeira;
+- Empreendedorismo;
+- Inglês.
+
+![](https://media.tenor.com/iuc7nRK97agAAAAj/crt-critical-race-theory.gif)  
+
 
 <!--
 **renato-prof-tech/renato-prof-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
